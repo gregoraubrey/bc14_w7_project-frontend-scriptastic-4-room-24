@@ -1,3 +1,1 @@
-# frontend-project
-
-testingtesting123 - Gregor
+**This is our week-long project that we did on the School of Code bootcamp. We started on 20230424. We decided to make a flashcard app that lets you add your own cards and then tests you on them at random.**
